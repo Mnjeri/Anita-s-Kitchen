@@ -1,0 +1,61 @@
+.header{
+	
+	height: 500px;
+}
+#logo{
+	text-align:center;
+	
+}
+h2{
+	text-align: center;
+}
+.all{
+	float: right;
+}
+.container{
+	height: 500px;
+}
+
+#pic1{
+	height: 200px;
+}
+#pic{
+	height: 300px;
+}
+.container-fluid {
+	background-image:  url("foodsBg.jpg");
+	height: 300px;
+	background-size: cover;
+	overflow: hidden; 
+}
+.color{
+	background-color : red;
+}
+.my-class{
+	margin:8px;
+	border:2px;
+}
+
+h9 {
+	color: orange;
+}
+p1 {
+	text-align: center;
+}
+.container-fluid1{
+	background-color: orange;
+	height: 100px;
+
+}
+p2{
+	text-align: right;
+}
+#pic2{
+	text-align: right;
+}
+p5{
+	text-align: center;
+}
+.container-fluid2{
+	background-color: #F15A29;
+}
