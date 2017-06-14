@@ -48,11 +48,12 @@ h2{
 	height: 300px;
 	background-size: cover;
 	overflow: hidden; */
-}
-#star1{
-	background-image:url("foodsBg.jpg"); 
+
+.star{
+	background-image:url("foodsBg.jpg");
+	background-size: cover; 
 	height: 300px;
-	width:1500px;
+	width:100%;
 }
 .color{
 	background-color : red;
@@ -66,9 +67,25 @@ h2{
 	height: 300px;
 	width:1500px;
 }
+.frm{
+	margin-left: 50%;
+}
+.go{
+	color: #F15A29;
+}
+.sh{
+	color: #F15A29;
+}
+.pm{
+	color: #F15A29;
+}
 
-h9 {
-	color: orange;
+.cw{
+	color: #F15A29;
+}
+.bs{
+	box-shadow: 10px 10px 5px #888888;
+}
 }
 p1 {
 	text-align: center;
@@ -77,19 +94,25 @@ p1 {
 	background-color: orange;
 	height: 100px;
 }
-p5{
+.mn{
 	text-align: center;
 	font-size: 2em;
 }
-p6{
+.sn{
 	text-align: center;
 	font-size: 1.5em;
+}
+.hq{
+	color: #F15A29;
 }
 #end{
 	background-color: #F15A29;
 	height: 300px;
 	width:1500px;
 	text-align: center;
+}
+.fw{
+	background-color: #F15A29;
 }
 #dr{
 	padding-bottom: 60px;
